@@ -3,4 +3,5 @@ Purple
 Red
 Blue
 Green
+Pink
 Diff colors
