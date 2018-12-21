@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Horses
 Purple
 Red
 Blue
@@ -7,5 +7,6 @@ Pink
 Yellow
 indigo
 
-Are the Colors of the unicorn
+Are the Colors of the unicorns
+Horses are only brown
 
