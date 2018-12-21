@@ -5,6 +5,7 @@ Blue
 Green
 Pink
 Yellow
+indigo
 
 Are the Colors of the unicorn
 
